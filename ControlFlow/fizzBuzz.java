@@ -15,7 +15,7 @@ public class fizzBuzz {
         if (number <= 0) {
             System.out.println("Please enter a positive integer greater than 0.");
         } else {
-            // 3. Loop from 1 to number
+            //  Loop from 1 to number
             for (int i = 1; i <= number; i++) {
                 if (i % 3 == 0 && i % 5 == 0) {
                     System.out.println("FizzBuzz");
