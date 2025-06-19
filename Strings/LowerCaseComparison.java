@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class LowerCaseComparison {
 
-    // Method to convert a string to lowercase using ASCII logic and charAt()
+    // [Method to convert a string to lowercase using ASCII logic and charAt()]
     public static String convertToLower(String text) {
         String result = "";
         for (int i = 0; i < text.length(); i++) {
