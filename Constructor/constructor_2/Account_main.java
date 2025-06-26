@@ -1,7 +1,7 @@
 public class Account_main {
     public class Main {
     public static void main(String[] args) {
-        // Create a BankAccount object
+        //  us
         BankAccount b1 = new BankAccount("BA12345", "Rahul Sharma", 10000.0);
         b1.displayAccountInfo();
         b1.deposit(2000);
